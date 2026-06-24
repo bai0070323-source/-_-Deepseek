@@ -64,3 +64,8 @@ pyinstaller --onefile --noconsole --name "微信聊天分析" gui.py
 ## 许可
 
 MIT License
+
+## 声明
+
+如需导出微信聊天记录请参考
+https://github.com/ILoveBingLu/CipherTalk
